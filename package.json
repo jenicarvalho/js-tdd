@@ -1,0 +1,23 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Biblioteca curso JS TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenicarvalho/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Jeniffer Carvalho <jenicarvalho@live.com> (http://jenicarvalho.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jenicarvalho/js-tdd/issues"
+  },
+  "homepage": "https://github.com/jenicarvalho/js-tdd#readme"
+}
